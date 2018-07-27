@@ -21,7 +21,7 @@ order and therefore the edges will still render beautifully.
 
 #Architecture:
 The application develop base MVP design pattern as described below:
-<div align="center"><img src="https://cdn-images-1.medium.com/max/1600/1*p2JvbgEir0BusDiiVHMvIA.png"></div>
+<div align="center"><img src="https://cdn-images-1.medium.com/max/1600/1*p2JvbgEir0BusDiiVHMvIA.png" height="42" width="42"></div>
 
 # Tecnolegis:
 ConstraintLayout - Allows you to position and size widgets in a flexible way.
