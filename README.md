@@ -17,9 +17,12 @@ order and therefore the edges will still render beautifully.
   - The Pit color select randomly. 
 * `Pit` start with 5 different initial points.
 
+# illustration of Pit
+<div align="center"><img src="illustration_of_pit.jpg"></div>
+![alt text](illustration_of_pit.jpg "illustration of pit")
 
 
-#Architecture:
+# Architecture:
 The application develop base MVP design pattern as described below:
 <div align="center"><img src="https://cdn-images-1.medium.com/max/1600/1*p2JvbgEir0BusDiiVHMvIA.png" height="200" width="200"></div>
 
