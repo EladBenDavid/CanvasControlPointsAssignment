@@ -18,7 +18,7 @@ order and therefore the edges will still render beautifully.
 * `Pit` start with 5 different initial points.
 
 # illustration of Pit
-<div align="center"><img src="illustration_of_pit.jpg" height="200" width="200"></div>
+<div align="center"><img src="illustration_of_pit.jpg" height="300" width="200"></div>
 
 # Architecture:
 The application develop base MVP design pattern as described below:
